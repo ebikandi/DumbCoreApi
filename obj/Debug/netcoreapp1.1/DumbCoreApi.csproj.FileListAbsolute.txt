@@ -1,0 +1,8 @@
+/home/eneko/git/DumbCoreApi/bin/Debug/netcoreapp1.1/DumbCoreApi.deps.json
+/home/eneko/git/DumbCoreApi/bin/Debug/netcoreapp1.1/DumbCoreApi.runtimeconfig.json
+/home/eneko/git/DumbCoreApi/bin/Debug/netcoreapp1.1/DumbCoreApi.runtimeconfig.dev.json
+/home/eneko/git/DumbCoreApi/bin/Debug/netcoreapp1.1/DumbCoreApi.dll
+/home/eneko/git/DumbCoreApi/bin/Debug/netcoreapp1.1/DumbCoreApi.pdb
+/home/eneko/git/DumbCoreApi/obj/Debug/netcoreapp1.1/DumbCoreApi.AssemblyInfo.cs
+/home/eneko/git/DumbCoreApi/obj/Debug/netcoreapp1.1/DumbCoreApi.dll
+/home/eneko/git/DumbCoreApi/obj/Debug/netcoreapp1.1/DumbCoreApi.pdb
